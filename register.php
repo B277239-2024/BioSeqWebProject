@@ -3,39 +3,90 @@ session_start();
 ?>
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>Register</title>
-<script>
-function showHint(message) {
-    document.getElementById('hint').textContent = message;
-}
-function clearHint() {
-    document.getElementById('hint').textContent = '';
-}
-</script>
+  <meta charset="UTF-8">
+  <title>Register</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+        background-color: #f4f6f9;
+        font-family: 'Segoe UI', sans-serif;
+    }
+
+    .register-container {
+        max-width: 500px;
+        margin: 80px auto;
+        padding: 30px 40px;
+        background-color: white;
+        border-radius: 10px;
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+    }
+
+    .register-container h2 {
+        text-align: center;
+        margin-bottom: 25px;
+    }
+
+    .form-label {
+        font-weight: bold;
+    }
+
+    #hint {
+        color: gray;
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .message {
+        text-align: center;
+        margin-top: 20px;
+    }
+  </style>
+
+  <script>
+    function showHint(message) {
+        document.getElementById('hint').textContent = message;
+    }
+
+    function clearHint() {
+        document.getElementById('hint').textContent = '';
+    }
+  </script>
 </head>
 
 <body>
-    <h2>User Registration</h2>
-    <form method="POST" action="register.php">
-        <label for="username">Username:</label>
-        <input type="text" name="username" minlength="3" maxlength="20" required
-            onfocus="showHint('Enter a username between 3 and 20 characters.')"
-            onblur="clearHint()"><br><br>
+<?php include 'nav.php'; ?>
+<div class="register-container">
+  <h2>User Registration</h2>
+  <form method="POST" action="register.php">
+    <div class="mb-3">
+      <label for="username" class="form-label">Username</label>
+      <input type="text" class="form-control" name="username" minlength="3" maxlength="20" required
+             onfocus="showHint('Enter a username between 3 and 20 characters.')"
+             onblur="clearHint()">
+    </div>
 
-        <label for="email">Email(Optional):</label>
-        <input type="email" name="email"><br><br>
+    <div class="mb-3">
+      <label for="email" class="form-label">Email (Optional)</label>
+      <input type="email" class="form-control" name="email">
+    </div>
 
-        <label for="password">Password:</label>
-        <input type="password" name="password" minlength="6" required
-            onfocus="showHint('Password must be at least 6 characters long.')"
-            onblur="clearHint()"><br><br>
+    <div class="mb-3">
+      <label for="password" class="form-label">Password</label>
+      <input type="password" class="form-control" name="password" minlength="6" required
+             onfocus="showHint('Password must be at least 6 characters long.')"
+             onblur="clearHint()">
+    </div>
 
-        <input type="submit" name="register" value="Register">
-    </form>
+    <div class="d-grid">
+      <button type="submit" class="btn btn-primary" name="register">Register</button>
+    </div>
+  </form>
 
-<p id="hint" style="color:gray;"></p>
+<p id="hint"></p>
+
+<div class="message">
 
 <?php
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
@@ -50,18 +101,20 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $check = $pdo->prepare("SELECT * FROM Users WHERE username = ?");
         $check->execute([$username]);
 
-        if ($check->rowCount() > 0) {
-            echo "<p style='color:red;'>Username already exists. Please choose another.</p>";
-        } else {
-            $stmt = $pdo->prepare("INSERT INTO Users (username, email, password) VALUES (?, ?, ?)");
-            $stmt->execute([$username, $email, $hashed_password]);
+       if ($check->rowCount() > 0) {
+                echo "<div class='text-danger'>Username already exists. Please choose another.</div>";
+            } else {
+                $stmt = $pdo->prepare("INSERT INTO Users (username, email, password) VALUES (?, ?, ?)");
+                $stmt->execute([$username, $email, $hashed_password]);
 
-            echo "<p style='color:green;'>Registration successful! You can now <a href='login.php'>log in</a>.</p>";
+                echo "<div class='text-success'>Registration successful! You can now <a href='login.php'>log in</a>.</div>";
+            }
+        } catch (PDOException $e) {
+            echo "<div class='text-danger'>Database Error: " . $e->getMessage() . "</div>";
         }
-    } catch (PDOException $e) {
-        echo "Database Error: " . $e->getMessage();
     }
-}
-?>
+    ?>
+  </div>
+</div>
 </body>
 </html>

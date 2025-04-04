@@ -1,0 +1,3245 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:27
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq00
+#    -outfile results/job_42_motif0.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif0.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAJ7421106.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSAAGGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:27
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq01
+#    -outfile results/job_42_motif1.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif1.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAJ7396366.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSAAGGKKQSRTF
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:27
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq02
+#    -outfile results/job_42_motif2.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif2.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAI6072612.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSIASGKRQSKTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:27
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq03
+#    -outfile results/job_42_motif3.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif3.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAI1230272.1     from: 1   to: 370
+# HitCount: 0
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:27
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq04
+#    -outfile results/job_42_motif4.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif4.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_040473657.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:27
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq05
+#    -outfile results/job_42_motif5.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif5.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_040392851.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSIVSGKRQSKTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:27
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq06
+#    -outfile results/job_42_motif6.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif6.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_039553177.1     from: 1   to: 358
+# HitCount: 0
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:27
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq07
+#    -outfile results/job_42_motif7.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif7.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_010411101.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSAAEGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:27
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq08
+#    -outfile results/job_42_motif8.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif8.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_027601652.2     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSAAGGKKQSRTF
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:27
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq09
+#    -outfile results/job_42_motif9.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif9.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_038019160.1     from: 1   to: 358
+# HitCount: 0
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:27
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq10
+#    -outfile results/job_42_motif10.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif10.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_037266979.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:27
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq11
+#    -outfile results/job_42_motif11.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif11.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAF4787459.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSAAGGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:27
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq12
+#    -outfile results/job_42_motif12.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif12.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_015506695.1     from: 1   to: 358
+# HitCount: 0
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:27
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq13
+#    -outfile results/job_42_motif13.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif13.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_030364364.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSAAMGKKQLKTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:27
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq14
+#    -outfile results/job_42_motif14.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif14.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_032566992.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSAARGKKQSRTF
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:27
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq15
+#    -outfile results/job_42_motif15.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif15.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_015741500.1     from: 1   to: 432
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 67 of sequence
+End = position 70 of sequence
+
+Motif = AMIDATION
+
+TGQPEPGRRLWRRM
+     |  |
+    67  70
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:27
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq16
+#    -outfile results/job_42_motif16.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif16.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAF1671963.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:27
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq17
+#    -outfile results/job_42_motif17.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif17.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAF1663616.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:28
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq18
+#    -outfile results/job_42_motif18.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif18.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAF1642821.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:28
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq19
+#    -outfile results/job_42_motif19.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif19.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAF1627266.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:28
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq20
+#    -outfile results/job_42_motif20.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif20.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAF1604860.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:28
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq21
+#    -outfile results/job_42_motif21.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif21.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAF1584371.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:28
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq22
+#    -outfile results/job_42_motif22.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif22.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAF1578265.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:28
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq23
+#    -outfile results/job_42_motif23.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif23.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAF1561075.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:28
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq24
+#    -outfile results/job_42_motif24.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif24.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAF1548696.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:28
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq25
+#    -outfile results/job_42_motif25.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif25.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAF1546409.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:28
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq26
+#    -outfile results/job_42_motif26.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif26.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAF1524284.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:28
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq27
+#    -outfile results/job_42_motif27.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif27.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAF1488921.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:28
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq28
+#    -outfile results/job_42_motif28.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif28.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAF1487788.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:28
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq29
+#    -outfile results/job_42_motif29.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif29.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAF1473286.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:28
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq30
+#    -outfile results/job_42_motif30.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif30.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAF1471003.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:28
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq31
+#    -outfile results/job_42_motif31.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif31.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAF1464176.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:28
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq32
+#    -outfile results/job_42_motif32.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif32.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAF1464082.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:28
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq33
+#    -outfile results/job_42_motif33.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif33.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAF1459431.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:28
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq34
+#    -outfile results/job_42_motif34.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif34.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAF1440782.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:28
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq35
+#    -outfile results/job_42_motif35.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif35.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAF1432837.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:29
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq36
+#    -outfile results/job_42_motif36.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif36.txt
+########################################
+
+#=======================================
+#
+# Sequence: KAF1404242.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:29
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq37
+#    -outfile results/job_42_motif37.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif37.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_031990407.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSAAEGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:29
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq38
+#    -outfile results/job_42_motif38.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif38.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_019478895.1     from: 1   to: 220
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 1 of sequence
+End = position 4 of sequence
+
+Motif = AMIDATION
+
+MGKKQSRTL
+|  |
+1  4
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:29
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq39
+#    -outfile results/job_42_motif39.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif39.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_031456423.1     from: 1   to: 432
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 213 of sequence
+End = position 216 of sequence
+
+Motif = AMIDATION
+
+LLSIAMGKKQSKTL
+     |  |
+   213  216
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:29
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq40
+#    -outfile results/job_42_motif40.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif40.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_005429668.1     from: 1   to: 413
+# HitCount: 0
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:29
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq41
+#    -outfile results/job_42_motif41.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif41.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_030822190.1     from: 1   to: 359
+# HitCount: 0
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:29
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq42
+#    -outfile results/job_42_motif42.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif42.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_030321679.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSAAMGKKQSKTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:29
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq43
+#    -outfile results/job_42_motif43.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif43.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_008503927.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSAAMGKKQSKTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:29
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq44
+#    -outfile results/job_42_motif44.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif44.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_008922173.2     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSAARGKKQSRTS
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:29
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq45
+#    -outfile results/job_42_motif45.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif45.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_027751872.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSAAGGKKQSRTF
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:29
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq46
+#    -outfile results/job_42_motif46.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif46.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_027520533.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSAARGKKQSRTF
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:29
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq47
+#    -outfile results/job_42_motif47.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif47.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_027558020.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSAAGGKKQSRTF
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:29
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq48
+#    -outfile results/job_42_motif48.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif48.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_026720573.1     from: 1   to: 417
+# HitCount: 2
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 348 of sequence
+End = position 351 of sequence
+
+Motif = AMIDATION
+
+SCRRTQGRRLPFRL
+     |  |
+   348  351
+
+Length = 4
+Start = position 200 of sequence
+End = position 203 of sequence
+
+Motif = AMIDATION
+
+LLSSAKGKKQSRTL
+     |  |
+   200  203
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:29
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq49
+#    -outfile results/job_42_motif49.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif49.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_025900367.1     from: 1   to: 335
+# HitCount: 0
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:29
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq50
+#    -outfile results/job_42_motif50.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif50.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_023798483.1     from: 1   to: 358
+# HitCount: 0
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:29
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq51
+#    -outfile results/job_42_motif51.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif51.txt
+########################################
+
+#=======================================
+#
+# Sequence: PKU41280.1     from: 1   to: 358
+# HitCount: 2
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 289 of sequence
+End = position 292 of sequence
+
+Motif = AMIDATION
+
+SCRGKQGRKLPFRL
+     |  |
+   289  292
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSADMGKKQLRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:29
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq52
+#    -outfile results/job_42_motif52.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif52.txt
+########################################
+
+#=======================================
+#
+# Sequence: OWK54800.1     from: 1   to: 238
+# HitCount: 0
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:30
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq53
+#    -outfile results/job_42_motif53.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif53.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_021233644.1     from: 1   to: 432
+# HitCount: 2
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 213 of sequence
+End = position 216 of sequence
+
+Motif = AMIDATION
+
+LLSIAMGKKQSKTL
+     |  |
+   213  216
+
+Length = 4
+Start = position 67 of sequence
+End = position 70 of sequence
+
+Motif = AMIDATION
+
+TGQPEPGRRLRRRM
+     |  |
+    67  70
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:30
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq54
+#    -outfile results/job_42_motif54.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif54.txt
+########################################
+
+#=======================================
+#
+# Sequence: OPJ74548.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+ILSAAAGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:30
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq55
+#    -outfile results/job_42_motif55.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif55.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_009281191.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:30
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq56
+#    -outfile results/job_42_motif56.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif56.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_017689608.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSAAHGKKQSRTF
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:30
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq57
+#    -outfile results/job_42_motif57.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif57.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_008638823.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSAAEGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:30
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq58
+#    -outfile results/job_42_motif58.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif58.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_005059732.1     from: 1   to: 359
+# HitCount: 0
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:30
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq59
+#    -outfile results/job_42_motif59.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif59.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_014814680.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSAAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:30
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq60
+#    -outfile results/job_42_motif60.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif60.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_014740911.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSAAGGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:30
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq61
+#    -outfile results/job_42_motif61.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif61.txt
+########################################
+
+#=======================================
+#
+# Sequence: KQK79067.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSAAMGKKQLKTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:30
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq62
+#    -outfile results/job_42_motif62.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif62.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_005531541.2     from: 1   to: 357
+# HitCount: 0
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:30
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq63
+#    -outfile results/job_42_motif63.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif63.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_009324864.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:30
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq64
+#    -outfile results/job_42_motif64.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif64.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_010583936.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQLRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:30
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq65
+#    -outfile results/job_42_motif65.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif65.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_010295685.1     from: 1   to: 418
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 199 of sequence
+End = position 202 of sequence
+
+Motif = AMIDATION
+
+LLSAAMGKKRSRTL
+     |  |
+   199  202
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:30
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq66
+#    -outfile results/job_42_motif66.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif66.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_010187293.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:30
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq67
+#    -outfile results/job_42_motif67.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif67.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_009982315.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSAAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:30
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq68
+#    -outfile results/job_42_motif68.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif68.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_009943063.1     from: 1   to: 339
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 142 of sequence
+End = position 145 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKRSRTL
+     |  |
+   142  145
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:30
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq69
+#    -outfile results/job_42_motif69.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif69.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_009892089.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSAAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:31
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq70
+#    -outfile results/job_42_motif70.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif70.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_009870532.1     from: 1   to: 298
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 143 of sequence
+End = position 146 of sequence
+
+Motif = AMIDATION
+
+LLSAAMGKKQSRTL
+     |  |
+   143  146
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:31
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq71
+#    -outfile results/job_42_motif71.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif71.txt
+########################################
+
+#=======================================
+#
+# Sequence: KGL85810.1     from: 1   to: 353
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 136 of sequence
+End = position 139 of sequence
+
+Motif = AMIDATION
+
+LLSAAMGKKQSRTL
+     |  |
+   136  139
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:31
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq72
+#    -outfile results/job_42_motif72.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif72.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_009460192.1     from: 1   to: 411
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 192 of sequence
+End = position 195 of sequence
+
+Motif = AMIDATION
+
+LLSAAAGKKQSRTL
+     |  |
+   192  195
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:31
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq73
+#    -outfile results/job_42_motif73.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif73.txt
+########################################
+
+#=======================================
+#
+# Sequence: KFZ68785.1     from: 1   to: 299
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 135 of sequence
+End = position 138 of sequence
+
+Motif = AMIDATION
+
+LLSTATGKKQSRTL
+     |  |
+   135  138
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:31
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq74
+#    -outfile results/job_42_motif74.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif74.txt
+########################################
+
+#=======================================
+#
+# Sequence: KFW81030.1     from: 1   to: 353
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 136 of sequence
+End = position 139 of sequence
+
+Motif = AMIDATION
+
+LLSAARGKKQSRTS
+     |  |
+   136  139
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:31
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq75
+#    -outfile results/job_42_motif75.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif75.txt
+########################################
+
+#=======================================
+#
+# Sequence: KFW61438.1     from: 1   to: 356
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:31
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq76
+#    -outfile results/job_42_motif76.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif76.txt
+########################################
+
+#=======================================
+#
+# Sequence: KFV54932.1     from: 1   to: 349
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 132 of sequence
+End = position 135 of sequence
+
+Motif = AMIDATION
+
+FLSTAMGKKQLRTF
+     |  |
+   132  135
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:31
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq77
+#    -outfile results/job_42_motif77.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif77.txt
+########################################
+
+#=======================================
+#
+# Sequence: KFV16020.1     from: 1   to: 353
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 136 of sequence
+End = position 139 of sequence
+
+Motif = AMIDATION
+
+LLSAAMGKKQSRTL
+     |  |
+   136  139
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:31
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq78
+#    -outfile results/job_42_motif78.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif78.txt
+########################################
+
+#=======================================
+#
+# Sequence: KFU87009.1     from: 1   to: 353
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 136 of sequence
+End = position 139 of sequence
+
+Motif = AMIDATION
+
+LLSAAMGKKQSRTL
+     |  |
+   136  139
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:31
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq79
+#    -outfile results/job_42_motif79.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif79.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_009079850.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSAAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:31
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq80
+#    -outfile results/job_42_motif80.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif80.txt
+########################################
+
+#=======================================
+#
+# Sequence: KFR03283.1     from: 1   to: 321
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 127 of sequence
+End = position 130 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKRSRTL
+     |  |
+   127  130
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:31
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq81
+#    -outfile results/job_42_motif81.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif81.txt
+########################################
+
+#=======================================
+#
+# Sequence: KFQ94573.1     from: 1   to: 353
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 136 of sequence
+End = position 139 of sequence
+
+Motif = AMIDATION
+
+LLSAAAGKKQSRTL
+     |  |
+   136  139
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:31
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq82
+#    -outfile results/job_42_motif82.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif82.txt
+########################################
+
+#=======================================
+#
+# Sequence: KFQ70770.1     from: 1   to: 353
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 136 of sequence
+End = position 139 of sequence
+
+Motif = AMIDATION
+
+LLSAAMGKKRSRTL
+     |  |
+   136  139
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:31
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq83
+#    -outfile results/job_42_motif83.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif83.txt
+########################################
+
+#=======================================
+#
+# Sequence: KFQ38853.1     from: 1   to: 352
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 135 of sequence
+End = position 138 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   135  138
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:31
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq84
+#    -outfile results/job_42_motif84.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif84.txt
+########################################
+
+#=======================================
+#
+# Sequence: KFQ28029.1     from: 1   to: 353
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 136 of sequence
+End = position 139 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQLRTF
+     |  |
+   136  139
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:31
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq85
+#    -outfile results/job_42_motif85.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif85.txt
+########################################
+
+#=======================================
+#
+# Sequence: KFQ16131.1     from: 1   to: 353
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 136 of sequence
+End = position 139 of sequence
+
+Motif = AMIDATION
+
+ILSTAMGKKQSRTL
+     |  |
+   136  139
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:31
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq86
+#    -outfile results/job_42_motif86.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif86.txt
+########################################
+
+#=======================================
+#
+# Sequence: KFP87454.1     from: 1   to: 353
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 136 of sequence
+End = position 139 of sequence
+
+Motif = AMIDATION
+
+LLSAAMGKKQSRTL
+     |  |
+   136  139
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:31
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq87
+#    -outfile results/job_42_motif87.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif87.txt
+########################################
+
+#=======================================
+#
+# Sequence: KFP28446.1     from: 1   to: 353
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 136 of sequence
+End = position 139 of sequence
+
+Motif = AMIDATION
+
+LLSAAMGKKQTKTL
+     |  |
+   136  139
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:32
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq88
+#    -outfile results/job_42_motif88.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif88.txt
+########################################
+
+#=======================================
+#
+# Sequence: KFP08967.1     from: 1   to: 353
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 136 of sequence
+End = position 139 of sequence
+
+Motif = AMIDATION
+
+LLSAAMGKKQSKTL
+     |  |
+   136  139
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:32
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq89
+#    -outfile results/job_42_motif89.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif89.txt
+########################################
+
+#=======================================
+#
+# Sequence: KFO97556.1     from: 1   to: 353
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 136 of sequence
+End = position 139 of sequence
+
+Motif = AMIDATION
+
+LLSAAMGKKQSKTL
+     |  |
+   136  139
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:32
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq90
+#    -outfile results/job_42_motif90.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif90.txt
+########################################
+
+#=======================================
+#
+# Sequence: KFO72113.1     from: 1   to: 353
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 136 of sequence
+End = position 139 of sequence
+
+Motif = AMIDATION
+
+LLSAAAGKKGSRTL
+     |  |
+   136  139
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:32
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq91
+#    -outfile results/job_42_motif91.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif91.txt
+########################################
+
+#=======================================
+#
+# Sequence: KFO52652.1     from: 1   to: 353
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 136 of sequence
+End = position 139 of sequence
+
+Motif = AMIDATION
+
+LLSAAEGKKQSRTL
+     |  |
+   136  139
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:32
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq92
+#    -outfile results/job_42_motif92.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif92.txt
+########################################
+
+#=======================================
+#
+# Sequence: KFV67652.1     from: 1   to: 353
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 136 of sequence
+End = position 139 of sequence
+
+Motif = AMIDATION
+
+LLSVAMGKKQLRTL
+     |  |
+   136  139
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:32
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq93
+#    -outfile results/job_42_motif93.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif93.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_008936739.1     from: 1   to: 358
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQLRTF
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------
+########################################
+# Program: patmatmotifs
+# Rundate: Fri  4 Apr 2025 09:00:32
+# Commandline: patmatmotifs
+#    -sequence results/job_42_seq94
+#    -outfile results/job_42_motif94.txt
+#    -auto
+# Report_format: dbmotif
+# Report_file: results/job_42_motif94.txt
+########################################
+
+#=======================================
+#
+# Sequence: KFM01312.1     from: 1   to: 356
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 139 of sequence
+End = position 142 of sequence
+
+Motif = AMIDATION
+
+LLSTAMGKKQSRTL
+     |  |
+   139  142
+
+
+#---------------------------------------
+#---------------------------------------

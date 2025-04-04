@@ -1,5 +1,6 @@
 #!/bin/bash
 export PATH=$PATH:/home/s2703447/edirect
+export PATH=$PATH:/localdisk/home/ubuntu-software/blast216/ReleaseMT/bin
 
 export EMAIL=zhouboyuanqte@gmail.com
 export NCBI_API_KEY=480a12e251ed500643ea6a34cd28721f6108
@@ -17,7 +18,6 @@ which esearch
 which efetch
 which clustalo
 which plotcon
-
 
 
 outdir="results"
@@ -43,8 +43,11 @@ clustalo -i "${prefix}.fasta" -o "${prefix}_aligned.fasta" --outfmt=fasta
 echo "Generating conservation plot..."
 plotcon -sequence "${prefix}_aligned.fasta" -goutfile "${prefix}_plot" -graph png -winsize 4
 
+bash scan_motifs.sh "$jobid"
 
 echo "Job ${jobid} Analysis complete!"
 echo "- Original Sequence: ${prefix}.fasta"
 echo "- Aligned Sequence: ${prefix}_aligned.fasta"
 echo "- Image Output: ${prefix}_plot.png"
+echo "- Motif text: $motif_output"
+echo "- BLAST Output: ${prefix}_blast.txt"

@@ -1,0 +1,22 @@
+===== Job 42 started =====
+Query: glucose-6-phosphatase[Protein name] AND Aves[Organism]
+PATH: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin:/home/s2703447/edirect:/localdisk/home/ubuntu-software/blast216/ReleaseMT/bin
+/home/s2703447/edirect/esearch
+/home/s2703447/edirect/efetch
+/usr/bin/clustalo
+/usr/bin/plotcon
+Processing: Job ID: 42
+Query: glucose-6-phosphatase[Protein name] AND Aves[Organism]
+Capture successful! File saved as: results/job_42.fasta
+Performing multiple sequence alignment...
+Generating conservation plot...
+Plot conservation of a sequence alignment
+Created results/job_42_plot.1.png
+Running PROSITE motif scan with patmatmotifs for job 42...
+Motif scan for job 42 complete.
+Job 42 Analysis complete!
+- Original Sequence: results/job_42.fasta
+- Aligned Sequence: results/job_42_aligned.fasta
+- Image Output: results/job_42_plot.png
+- Motif text: 
+- BLAST Output: results/job_42_blast.txt
