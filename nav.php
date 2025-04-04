@@ -86,6 +86,7 @@ if (session_status() === PHP_SESSION_NONE) {
         <a href="history.php">History</a>
         <a href="help.php">Help</a>
         <a class="nav-link" href="acknowledgement.php">Acknowledgements</a>
+        <a class="nav-link" href="about.php">About</a>
 
         <?php if (isset($_SESSION['username'])): ?>
             <div class="user-dropdown">
