@@ -78,6 +78,15 @@
     <p>
         Protein sequence data and taxonomy-filtered searches are retrieved from <strong><a href="https://www.ncbi.nlm.nih.gov/" target="_blank">NCBI Protein Database</a></strong> using the Entrez Utilities (eSearch, eFetch) via shell scripts.
     </p>
+    
+    <hr>
+    <h4>GitHub Repository</h4>
+    <p>
+      The full source code for this website is available at:  
+      <a href="https://github.com/B277239-2024/BioSeqWebProject" target="_blank">
+        https://github.com/B277239-2024/BioSeqWebProject
+      </a>
+</p>
 </div>
 </body>
 </html>
